@@ -1,0 +1,841 @@
+,Country/City,File Name,Description
+0,Albany,listings.csv.gz,Detailed Listings data
+1,Albany,calendar.csv.gz,Detailed Calendar Data
+2,Albany,reviews.csv.gz,Detailed Review Data
+3,Albany,listings.csv,Summary information and metrics for listings in Albany (good for visualisations).
+4,Albany,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+5,Albany,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+6,Albany,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+7,Amsterdam,listings.csv.gz,Detailed Listings data
+8,Amsterdam,calendar.csv.gz,Detailed Calendar Data
+9,Amsterdam,reviews.csv.gz,Detailed Review Data
+10,Amsterdam,listings.csv,Summary information and metrics for listings in Amsterdam (good for visualisations).
+11,Amsterdam,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+12,Amsterdam,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+13,Amsterdam,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+14,Antwerp,listings.csv.gz,Detailed Listings data
+15,Antwerp,calendar.csv.gz,Detailed Calendar Data
+16,Antwerp,reviews.csv.gz,Detailed Review Data
+17,Antwerp,listings.csv,Summary information and metrics for listings in Antwerp (good for visualisations).
+18,Antwerp,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+19,Antwerp,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+20,Antwerp,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+21,Asheville,listings.csv.gz,Detailed Listings data
+22,Asheville,calendar.csv.gz,Detailed Calendar Data
+23,Asheville,reviews.csv.gz,Detailed Review Data
+24,Asheville,listings.csv,Summary information and metrics for listings in Asheville (good for visualisations).
+25,Asheville,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+26,Asheville,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+27,Asheville,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+28,Athens,listings.csv.gz,Detailed Listings data
+29,Athens,calendar.csv.gz,Detailed Calendar Data
+30,Athens,reviews.csv.gz,Detailed Review Data
+31,Athens,listings.csv,Summary information and metrics for listings in Athens (good for visualisations).
+32,Athens,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+33,Athens,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+34,Athens,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+35,Austin,listings.csv.gz,Detailed Listings data
+36,Austin,calendar.csv.gz,Detailed Calendar Data
+37,Austin,reviews.csv.gz,Detailed Review Data
+38,Austin,listings.csv,Summary information and metrics for listings in Austin (good for visualisations).
+39,Austin,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+40,Austin,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+41,Austin,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+42,Bangkok,listings.csv.gz,Detailed Listings data
+43,Bangkok,calendar.csv.gz,Detailed Calendar Data
+44,Bangkok,reviews.csv.gz,Detailed Review Data
+45,Bangkok,listings.csv,Summary information and metrics for listings in Bangkok (good for visualisations).
+46,Bangkok,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+47,Bangkok,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+48,Bangkok,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+49,Barcelona,listings.csv.gz,Detailed Listings data
+50,Barcelona,calendar.csv.gz,Detailed Calendar Data
+51,Barcelona,reviews.csv.gz,Detailed Review Data
+52,Barcelona,listings.csv,Summary information and metrics for listings in Barcelona (good for visualisations).
+53,Barcelona,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+54,Barcelona,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+55,Barcelona,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+56,Barossa Valley,listings.csv.gz,Detailed Listings data
+57,Barossa Valley,calendar.csv.gz,Detailed Calendar Data
+58,Barossa Valley,reviews.csv.gz,Detailed Review Data
+59,Barossa Valley,listings.csv,Summary information and metrics for listings in Barossa Valley (good for visualisations).
+60,Barossa Valley,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+61,Barossa Valley,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+62,Barossa Valley,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+63,"Barwon South West, Vic",listings.csv.gz,Detailed Listings data
+64,"Barwon South West, Vic",calendar.csv.gz,Detailed Calendar Data
+65,"Barwon South West, Vic",reviews.csv.gz,Detailed Review Data
+66,"Barwon South West, Vic",listings.csv,"Summary information and metrics for listings in Barwon South West, Vic (good for visualisations)."
+67,"Barwon South West, Vic",reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+68,"Barwon South West, Vic",neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+69,"Barwon South West, Vic",neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+70,Beijing,listings.csv.gz,Detailed Listings data
+71,Beijing,calendar.csv.gz,Detailed Calendar Data
+72,Beijing,reviews.csv.gz,Detailed Review Data
+73,Beijing,listings.csv,Summary information and metrics for listings in Beijing (good for visualisations).
+74,Beijing,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+75,Beijing,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+76,Beijing,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+77,Belize,listings.csv.gz,Detailed Listings data
+78,Belize,calendar.csv.gz,Detailed Calendar Data
+79,Belize,reviews.csv.gz,Detailed Review Data
+80,Belize,listings.csv,Summary information and metrics for listings in Belize (good for visualisations).
+81,Belize,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+82,Belize,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+83,Belize,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+84,Bergamo,listings.csv.gz,Detailed Listings data
+85,Bergamo,calendar.csv.gz,Detailed Calendar Data
+86,Bergamo,reviews.csv.gz,Detailed Review Data
+87,Bergamo,listings.csv,Summary information and metrics for listings in Bergamo (good for visualisations).
+88,Bergamo,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+89,Bergamo,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+90,Bergamo,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+91,Berlin,listings.csv.gz,Detailed Listings data
+92,Berlin,calendar.csv.gz,Detailed Calendar Data
+93,Berlin,reviews.csv.gz,Detailed Review Data
+94,Berlin,listings.csv,Summary information and metrics for listings in Berlin (good for visualisations).
+95,Berlin,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+96,Berlin,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+97,Berlin,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+98,Bologna,listings.csv.gz,Detailed Listings data
+99,Bologna,calendar.csv.gz,Detailed Calendar Data
+100,Bologna,reviews.csv.gz,Detailed Review Data
+101,Bologna,listings.csv,Summary information and metrics for listings in Bologna (good for visualisations).
+102,Bologna,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+103,Bologna,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+104,Bologna,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+105,Bordeaux,listings.csv.gz,Detailed Listings data
+106,Bordeaux,calendar.csv.gz,Detailed Calendar Data
+107,Bordeaux,reviews.csv.gz,Detailed Review Data
+108,Bordeaux,listings.csv,Summary information and metrics for listings in Bordeaux (good for visualisations).
+109,Bordeaux,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+110,Bordeaux,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+111,Bordeaux,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+112,Boston,listings.csv.gz,Detailed Listings data
+113,Boston,calendar.csv.gz,Detailed Calendar Data
+114,Boston,reviews.csv.gz,Detailed Review Data
+115,Boston,listings.csv,Summary information and metrics for listings in Boston (good for visualisations).
+116,Boston,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+117,Boston,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+118,Boston,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+119,Bozeman,listings.csv.gz,Detailed Listings data
+120,Bozeman,calendar.csv.gz,Detailed Calendar Data
+121,Bozeman,reviews.csv.gz,Detailed Review Data
+122,Bozeman,listings.csv,Summary information and metrics for listings in Bozeman (good for visualisations).
+123,Bozeman,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+124,Bozeman,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+125,Bozeman,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+126,Brisbane,listings.csv.gz,Detailed Listings data
+127,Brisbane,calendar.csv.gz,Detailed Calendar Data
+128,Brisbane,reviews.csv.gz,Detailed Review Data
+129,Brisbane,listings.csv,Summary information and metrics for listings in Brisbane (good for visualisations).
+130,Brisbane,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+131,Brisbane,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+132,Brisbane,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+133,Bristol,listings.csv.gz,Detailed Listings data
+134,Bristol,calendar.csv.gz,Detailed Calendar Data
+135,Bristol,reviews.csv.gz,Detailed Review Data
+136,Bristol,listings.csv,Summary information and metrics for listings in Bristol (good for visualisations).
+137,Bristol,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+138,Bristol,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+139,Bristol,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+140,Broward County,listings.csv.gz,Detailed Listings data
+141,Broward County,calendar.csv.gz,Detailed Calendar Data
+142,Broward County,reviews.csv.gz,Detailed Review Data
+143,Broward County,listings.csv,Summary information and metrics for listings in Broward County (good for visualisations).
+144,Broward County,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+145,Broward County,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+146,Broward County,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+147,Brussels,listings.csv.gz,Detailed Listings data
+148,Brussels,calendar.csv.gz,Detailed Calendar Data
+149,Brussels,reviews.csv.gz,Detailed Review Data
+150,Brussels,listings.csv,Summary information and metrics for listings in Brussels (good for visualisations).
+151,Brussels,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+152,Brussels,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+153,Brussels,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+154,Buenos Aires,listings.csv.gz,Detailed Listings data
+155,Buenos Aires,calendar.csv.gz,Detailed Calendar Data
+156,Buenos Aires,reviews.csv.gz,Detailed Review Data
+157,Buenos Aires,listings.csv,Summary information and metrics for listings in Buenos Aires (good for visualisations).
+158,Buenos Aires,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+159,Buenos Aires,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+160,Buenos Aires,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+161,Cambridge,listings.csv.gz,Detailed Listings data
+162,Cambridge,calendar.csv.gz,Detailed Calendar Data
+163,Cambridge,reviews.csv.gz,Detailed Review Data
+164,Cambridge,listings.csv,Summary information and metrics for listings in Cambridge (good for visualisations).
+165,Cambridge,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+166,Cambridge,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+167,Cambridge,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+168,Cape Town,listings.csv.gz,Detailed Listings data
+169,Cape Town,calendar.csv.gz,Detailed Calendar Data
+170,Cape Town,reviews.csv.gz,Detailed Review Data
+171,Cape Town,listings.csv,Summary information and metrics for listings in Cape Town (good for visualisations).
+172,Cape Town,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+173,Cape Town,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+174,Cape Town,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+175,Chicago,listings.csv.gz,Detailed Listings data
+176,Chicago,calendar.csv.gz,Detailed Calendar Data
+177,Chicago,reviews.csv.gz,Detailed Review Data
+178,Chicago,listings.csv,Summary information and metrics for listings in Chicago (good for visualisations).
+179,Chicago,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+180,Chicago,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+181,Chicago,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+182,"Clark County, NV",listings.csv.gz,Detailed Listings data
+183,"Clark County, NV",calendar.csv.gz,Detailed Calendar Data
+184,"Clark County, NV",reviews.csv.gz,Detailed Review Data
+185,"Clark County, NV",listings.csv,"Summary information and metrics for listings in Clark County, NV (good for visualisations)."
+186,"Clark County, NV",reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+187,"Clark County, NV",neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+188,"Clark County, NV",neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+189,Columbus,listings.csv.gz,Detailed Listings data
+190,Columbus,calendar.csv.gz,Detailed Calendar Data
+191,Columbus,reviews.csv.gz,Detailed Review Data
+192,Columbus,listings.csv,Summary information and metrics for listings in Columbus (good for visualisations).
+193,Columbus,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+194,Columbus,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+195,Columbus,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+196,Copenhagen,listings.csv.gz,Detailed Listings data
+197,Copenhagen,calendar.csv.gz,Detailed Calendar Data
+198,Copenhagen,reviews.csv.gz,Detailed Review Data
+199,Copenhagen,listings.csv,Summary information and metrics for listings in Copenhagen (good for visualisations).
+200,Copenhagen,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+201,Copenhagen,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+202,Copenhagen,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+203,Crete,listings.csv.gz,Detailed Listings data
+204,Crete,calendar.csv.gz,Detailed Calendar Data
+205,Crete,reviews.csv.gz,Detailed Review Data
+206,Crete,listings.csv,Summary information and metrics for listings in Crete (good for visualisations).
+207,Crete,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+208,Crete,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+209,Crete,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+210,Dallas,listings.csv.gz,Detailed Listings data
+211,Dallas,calendar.csv.gz,Detailed Calendar Data
+212,Dallas,reviews.csv.gz,Detailed Review Data
+213,Dallas,listings.csv,Summary information and metrics for listings in Dallas (good for visualisations).
+214,Dallas,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+215,Dallas,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+216,Dallas,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+217,Denver,listings.csv.gz,Detailed Listings data
+218,Denver,calendar.csv.gz,Detailed Calendar Data
+219,Denver,reviews.csv.gz,Detailed Review Data
+220,Denver,listings.csv,Summary information and metrics for listings in Denver (good for visualisations).
+221,Denver,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+222,Denver,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+223,Denver,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+224,Dublin,listings.csv.gz,Detailed Listings data
+225,Dublin,calendar.csv.gz,Detailed Calendar Data
+226,Dublin,reviews.csv.gz,Detailed Review Data
+227,Dublin,listings.csv,Summary information and metrics for listings in Dublin (good for visualisations).
+228,Dublin,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+229,Dublin,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+230,Dublin,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+231,Edinburgh,listings.csv.gz,Detailed Listings data
+232,Edinburgh,calendar.csv.gz,Detailed Calendar Data
+233,Edinburgh,reviews.csv.gz,Detailed Review Data
+234,Edinburgh,listings.csv,Summary information and metrics for listings in Edinburgh (good for visualisations).
+235,Edinburgh,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+236,Edinburgh,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+237,Edinburgh,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+238,Euskadi,listings.csv.gz,Detailed Listings data
+239,Euskadi,calendar.csv.gz,Detailed Calendar Data
+240,Euskadi,reviews.csv.gz,Detailed Review Data
+241,Euskadi,listings.csv,Summary information and metrics for listings in Euskadi (good for visualisations).
+242,Euskadi,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+243,Euskadi,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+244,Euskadi,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+245,Florence,listings.csv.gz,Detailed Listings data
+246,Florence,calendar.csv.gz,Detailed Calendar Data
+247,Florence,reviews.csv.gz,Detailed Review Data
+248,Florence,listings.csv,Summary information and metrics for listings in Florence (good for visualisations).
+249,Florence,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+250,Florence,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+251,Florence,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+252,Fort Worth,listings.csv.gz,Detailed Listings data
+253,Fort Worth,calendar.csv.gz,Detailed Calendar Data
+254,Fort Worth,reviews.csv.gz,Detailed Review Data
+255,Fort Worth,listings.csv,Summary information and metrics for listings in Fort Worth (good for visualisations).
+256,Fort Worth,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+257,Fort Worth,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+258,Fort Worth,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+259,Geneva,listings.csv.gz,Detailed Listings data
+260,Geneva,calendar.csv.gz,Detailed Calendar Data
+261,Geneva,reviews.csv.gz,Detailed Review Data
+262,Geneva,listings.csv,Summary information and metrics for listings in Geneva (good for visualisations).
+263,Geneva,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+264,Geneva,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+265,Geneva,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+266,Ghent,listings.csv.gz,Detailed Listings data
+267,Ghent,calendar.csv.gz,Detailed Calendar Data
+268,Ghent,reviews.csv.gz,Detailed Review Data
+269,Ghent,listings.csv,Summary information and metrics for listings in Ghent (good for visualisations).
+270,Ghent,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+271,Ghent,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+272,Ghent,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+273,Girona,listings.csv.gz,Detailed Listings data
+274,Girona,calendar.csv.gz,Detailed Calendar Data
+275,Girona,reviews.csv.gz,Detailed Review Data
+276,Girona,listings.csv,Summary information and metrics for listings in Girona (good for visualisations).
+277,Girona,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+278,Girona,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+279,Girona,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+280,Greater Manchester,listings.csv.gz,Detailed Listings data
+281,Greater Manchester,calendar.csv.gz,Detailed Calendar Data
+282,Greater Manchester,reviews.csv.gz,Detailed Review Data
+283,Greater Manchester,listings.csv,Summary information and metrics for listings in Greater Manchester (good for visualisations).
+284,Greater Manchester,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+285,Greater Manchester,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+286,Greater Manchester,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+287,Hawaii,listings.csv.gz,Detailed Listings data
+288,Hawaii,calendar.csv.gz,Detailed Calendar Data
+289,Hawaii,reviews.csv.gz,Detailed Review Data
+290,Hawaii,listings.csv,Summary information and metrics for listings in Hawaii (good for visualisations).
+291,Hawaii,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+292,Hawaii,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+293,Hawaii,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+294,Hong Kong,listings.csv.gz,Detailed Listings data
+295,Hong Kong,calendar.csv.gz,Detailed Calendar Data
+296,Hong Kong,reviews.csv.gz,Detailed Review Data
+297,Hong Kong,listings.csv,Summary information and metrics for listings in Hong Kong (good for visualisations).
+298,Hong Kong,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+299,Hong Kong,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+300,Hong Kong,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+301,Istanbul,listings.csv.gz,Detailed Listings data
+302,Istanbul,calendar.csv.gz,Detailed Calendar Data
+303,Istanbul,reviews.csv.gz,Detailed Review Data
+304,Istanbul,listings.csv,Summary information and metrics for listings in Istanbul (good for visualisations).
+305,Istanbul,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+306,Istanbul,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+307,Istanbul,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+308,Jersey City,listings.csv.gz,Detailed Listings data
+309,Jersey City,calendar.csv.gz,Detailed Calendar Data
+310,Jersey City,reviews.csv.gz,Detailed Review Data
+311,Jersey City,listings.csv,Summary information and metrics for listings in Jersey City (good for visualisations).
+312,Jersey City,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+313,Jersey City,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+314,Jersey City,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+315,Lisbon,listings.csv.gz,Detailed Listings data
+316,Lisbon,calendar.csv.gz,Detailed Calendar Data
+317,Lisbon,reviews.csv.gz,Detailed Review Data
+318,Lisbon,listings.csv,Summary information and metrics for listings in Lisbon (good for visualisations).
+319,Lisbon,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+320,Lisbon,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+321,Lisbon,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+322,London,listings.csv.gz,Detailed Listings data
+323,London,calendar.csv.gz,Detailed Calendar Data
+324,London,reviews.csv.gz,Detailed Review Data
+325,London,listings.csv,Summary information and metrics for listings in London (good for visualisations).
+326,London,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+327,London,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+328,London,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+329,Los Angeles,listings.csv.gz,Detailed Listings data
+330,Los Angeles,calendar.csv.gz,Detailed Calendar Data
+331,Los Angeles,reviews.csv.gz,Detailed Review Data
+332,Los Angeles,listings.csv,Summary information and metrics for listings in Los Angeles (good for visualisations).
+333,Los Angeles,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+334,Los Angeles,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+335,Los Angeles,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+336,Lyon,listings.csv.gz,Detailed Listings data
+337,Lyon,calendar.csv.gz,Detailed Calendar Data
+338,Lyon,reviews.csv.gz,Detailed Review Data
+339,Lyon,listings.csv,Summary information and metrics for listings in Lyon (good for visualisations).
+340,Lyon,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+341,Lyon,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+342,Lyon,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+343,Madrid,listings.csv.gz,Detailed Listings data
+344,Madrid,calendar.csv.gz,Detailed Calendar Data
+345,Madrid,reviews.csv.gz,Detailed Review Data
+346,Madrid,listings.csv,Summary information and metrics for listings in Madrid (good for visualisations).
+347,Madrid,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+348,Madrid,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+349,Madrid,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+350,Malaga,listings.csv.gz,Detailed Listings data
+351,Malaga,calendar.csv.gz,Detailed Calendar Data
+352,Malaga,reviews.csv.gz,Detailed Review Data
+353,Malaga,listings.csv,Summary information and metrics for listings in Malaga (good for visualisations).
+354,Malaga,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+355,Malaga,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+356,Malaga,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+357,Mallorca,listings.csv.gz,Detailed Listings data
+358,Mallorca,calendar.csv.gz,Detailed Calendar Data
+359,Mallorca,reviews.csv.gz,Detailed Review Data
+360,Mallorca,listings.csv,Summary information and metrics for listings in Mallorca (good for visualisations).
+361,Mallorca,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+362,Mallorca,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+363,Mallorca,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+364,Melbourne,listings.csv.gz,Detailed Listings data
+365,Melbourne,calendar.csv.gz,Detailed Calendar Data
+366,Melbourne,reviews.csv.gz,Detailed Review Data
+367,Melbourne,listings.csv,Summary information and metrics for listings in Melbourne (good for visualisations).
+368,Melbourne,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+369,Melbourne,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+370,Melbourne,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+371,Menorca,listings.csv.gz,Detailed Listings data
+372,Menorca,calendar.csv.gz,Detailed Calendar Data
+373,Menorca,reviews.csv.gz,Detailed Review Data
+374,Menorca,listings.csv,Summary information and metrics for listings in Menorca (good for visualisations).
+375,Menorca,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+376,Menorca,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+377,Menorca,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+378,Mexico City,listings.csv.gz,Detailed Listings data
+379,Mexico City,calendar.csv.gz,Detailed Calendar Data
+380,Mexico City,reviews.csv.gz,Detailed Review Data
+381,Mexico City,listings.csv,Summary information and metrics for listings in Mexico City (good for visualisations).
+382,Mexico City,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+383,Mexico City,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+384,Mexico City,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+385,Mid North Coast,listings.csv.gz,Detailed Listings data
+386,Mid North Coast,calendar.csv.gz,Detailed Calendar Data
+387,Mid North Coast,reviews.csv.gz,Detailed Review Data
+388,Mid North Coast,listings.csv,Summary information and metrics for listings in Mid North Coast (good for visualisations).
+389,Mid North Coast,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+390,Mid North Coast,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+391,Mid North Coast,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+392,Milan,listings.csv.gz,Detailed Listings data
+393,Milan,calendar.csv.gz,Detailed Calendar Data
+394,Milan,reviews.csv.gz,Detailed Review Data
+395,Milan,listings.csv,Summary information and metrics for listings in Milan (good for visualisations).
+396,Milan,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+397,Milan,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+398,Milan,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+399,Montreal,listings.csv.gz,Detailed Listings data
+400,Montreal,calendar.csv.gz,Detailed Calendar Data
+401,Montreal,reviews.csv.gz,Detailed Review Data
+402,Montreal,listings.csv,Summary information and metrics for listings in Montreal (good for visualisations).
+403,Montreal,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+404,Montreal,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+405,Montreal,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+406,Mornington Peninsula,listings.csv.gz,Detailed Listings data
+407,Mornington Peninsula,calendar.csv.gz,Detailed Calendar Data
+408,Mornington Peninsula,reviews.csv.gz,Detailed Review Data
+409,Mornington Peninsula,listings.csv,Summary information and metrics for listings in Mornington Peninsula (good for visualisations).
+410,Mornington Peninsula,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+411,Mornington Peninsula,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+412,Mornington Peninsula,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+413,Munich,listings.csv.gz,Detailed Listings data
+414,Munich,calendar.csv.gz,Detailed Calendar Data
+415,Munich,reviews.csv.gz,Detailed Review Data
+416,Munich,listings.csv,Summary information and metrics for listings in Munich (good for visualisations).
+417,Munich,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+418,Munich,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+419,Munich,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+420,Naples,listings.csv.gz,Detailed Listings data
+421,Naples,calendar.csv.gz,Detailed Calendar Data
+422,Naples,reviews.csv.gz,Detailed Review Data
+423,Naples,listings.csv,Summary information and metrics for listings in Naples (good for visualisations).
+424,Naples,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+425,Naples,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+426,Naples,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+427,Nashville,listings.csv.gz,Detailed Listings data
+428,Nashville,calendar.csv.gz,Detailed Calendar Data
+429,Nashville,reviews.csv.gz,Detailed Review Data
+430,Nashville,listings.csv,Summary information and metrics for listings in Nashville (good for visualisations).
+431,Nashville,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+432,Nashville,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+433,Nashville,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+434,New Brunswick,listings.csv.gz,Detailed Listings data
+435,New Brunswick,calendar.csv.gz,Detailed Calendar Data
+436,New Brunswick,reviews.csv.gz,Detailed Review Data
+437,New Brunswick,listings.csv,Summary information and metrics for listings in New Brunswick (good for visualisations).
+438,New Brunswick,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+439,New Brunswick,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+440,New Brunswick,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+441,New Orleans,listings.csv.gz,Detailed Listings data
+442,New Orleans,calendar.csv.gz,Detailed Calendar Data
+443,New Orleans,reviews.csv.gz,Detailed Review Data
+444,New Orleans,listings.csv,Summary information and metrics for listings in New Orleans (good for visualisations).
+445,New Orleans,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+446,New Orleans,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+447,New Orleans,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+448,New York City,listings.csv.gz,Detailed Listings data
+449,New York City,calendar.csv.gz,Detailed Calendar Data
+450,New York City,reviews.csv.gz,Detailed Review Data
+451,New York City,listings.csv,Summary information and metrics for listings in New York City (good for visualisations).
+452,New York City,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+453,New York City,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+454,New York City,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+455,Newark,listings.csv.gz,Detailed Listings data
+456,Newark,calendar.csv.gz,Detailed Calendar Data
+457,Newark,reviews.csv.gz,Detailed Review Data
+458,Newark,listings.csv,Summary information and metrics for listings in Newark (good for visualisations).
+459,Newark,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+460,Newark,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+461,Newark,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+462,Northern Rivers,listings.csv.gz,Detailed Listings data
+463,Northern Rivers,calendar.csv.gz,Detailed Calendar Data
+464,Northern Rivers,reviews.csv.gz,Detailed Review Data
+465,Northern Rivers,listings.csv,Summary information and metrics for listings in Northern Rivers (good for visualisations).
+466,Northern Rivers,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+467,Northern Rivers,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+468,Northern Rivers,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+469,Oakland,listings.csv.gz,Detailed Listings data
+470,Oakland,calendar.csv.gz,Detailed Calendar Data
+471,Oakland,reviews.csv.gz,Detailed Review Data
+472,Oakland,listings.csv,Summary information and metrics for listings in Oakland (good for visualisations).
+473,Oakland,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+474,Oakland,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+475,Oakland,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+476,Oslo,listings.csv.gz,Detailed Listings data
+477,Oslo,calendar.csv.gz,Detailed Calendar Data
+478,Oslo,reviews.csv.gz,Detailed Review Data
+479,Oslo,listings.csv,Summary information and metrics for listings in Oslo (good for visualisations).
+480,Oslo,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+481,Oslo,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+482,Oslo,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+483,Ottawa,listings.csv.gz,Detailed Listings data
+484,Ottawa,calendar.csv.gz,Detailed Calendar Data
+485,Ottawa,reviews.csv.gz,Detailed Review Data
+486,Ottawa,listings.csv,Summary information and metrics for listings in Ottawa (good for visualisations).
+487,Ottawa,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+488,Ottawa,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+489,Ottawa,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+490,Pacific Grove,listings.csv.gz,Detailed Listings data
+491,Pacific Grove,calendar.csv.gz,Detailed Calendar Data
+492,Pacific Grove,reviews.csv.gz,Detailed Review Data
+493,Pacific Grove,listings.csv,Summary information and metrics for listings in Pacific Grove (good for visualisations).
+494,Pacific Grove,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+495,Pacific Grove,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+496,Pacific Grove,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+497,Paris,listings.csv.gz,Detailed Listings data
+498,Paris,calendar.csv.gz,Detailed Calendar Data
+499,Paris,reviews.csv.gz,Detailed Review Data
+500,Paris,listings.csv,Summary information and metrics for listings in Paris (good for visualisations).
+501,Paris,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+502,Paris,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+503,Paris,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+504,Pays Basque,listings.csv.gz,Detailed Listings data
+505,Pays Basque,calendar.csv.gz,Detailed Calendar Data
+506,Pays Basque,reviews.csv.gz,Detailed Review Data
+507,Pays Basque,listings.csv,Summary information and metrics for listings in Pays Basque (good for visualisations).
+508,Pays Basque,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+509,Pays Basque,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+510,Pays Basque,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+511,Portland,listings.csv.gz,Detailed Listings data
+512,Portland,calendar.csv.gz,Detailed Calendar Data
+513,Portland,reviews.csv.gz,Detailed Review Data
+514,Portland,listings.csv,Summary information and metrics for listings in Portland (good for visualisations).
+515,Portland,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+516,Portland,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+517,Portland,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+518,Porto,listings.csv.gz,Detailed Listings data
+519,Porto,calendar.csv.gz,Detailed Calendar Data
+520,Porto,reviews.csv.gz,Detailed Review Data
+521,Porto,listings.csv,Summary information and metrics for listings in Porto (good for visualisations).
+522,Porto,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+523,Porto,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+524,Porto,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+525,Prague,listings.csv.gz,Detailed Listings data
+526,Prague,calendar.csv.gz,Detailed Calendar Data
+527,Prague,reviews.csv.gz,Detailed Review Data
+528,Prague,listings.csv,Summary information and metrics for listings in Prague (good for visualisations).
+529,Prague,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+530,Prague,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+531,Prague,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+532,Puglia,listings.csv.gz,Detailed Listings data
+533,Puglia,calendar.csv.gz,Detailed Calendar Data
+534,Puglia,reviews.csv.gz,Detailed Review Data
+535,Puglia,listings.csv,Summary information and metrics for listings in Puglia (good for visualisations).
+536,Puglia,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+537,Puglia,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+538,Puglia,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+539,Quebec City,listings.csv.gz,Detailed Listings data
+540,Quebec City,calendar.csv.gz,Detailed Calendar Data
+541,Quebec City,reviews.csv.gz,Detailed Review Data
+542,Quebec City,listings.csv,Summary information and metrics for listings in Quebec City (good for visualisations).
+543,Quebec City,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+544,Quebec City,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+545,Quebec City,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+546,Rhode Island,listings.csv.gz,Detailed Listings data
+547,Rhode Island,calendar.csv.gz,Detailed Calendar Data
+548,Rhode Island,reviews.csv.gz,Detailed Review Data
+549,Rhode Island,listings.csv,Summary information and metrics for listings in Rhode Island (good for visualisations).
+550,Rhode Island,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+551,Rhode Island,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+552,Rhode Island,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+553,Riga,listings.csv.gz,Detailed Listings data
+554,Riga,calendar.csv.gz,Detailed Calendar Data
+555,Riga,reviews.csv.gz,Detailed Review Data
+556,Riga,listings.csv,Summary information and metrics for listings in Riga (good for visualisations).
+557,Riga,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+558,Riga,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+559,Riga,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+560,Rio de Janeiro,listings.csv.gz,Detailed Listings data
+561,Rio de Janeiro,calendar.csv.gz,Detailed Calendar Data
+562,Rio de Janeiro,reviews.csv.gz,Detailed Review Data
+563,Rio de Janeiro,listings.csv,Summary information and metrics for listings in Rio de Janeiro (good for visualisations).
+564,Rio de Janeiro,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+565,Rio de Janeiro,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+566,Rio de Janeiro,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+567,Rochester,listings.csv.gz,Detailed Listings data
+568,Rochester,calendar.csv.gz,Detailed Calendar Data
+569,Rochester,reviews.csv.gz,Detailed Review Data
+570,Rochester,listings.csv,Summary information and metrics for listings in Rochester (good for visualisations).
+571,Rochester,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+572,Rochester,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+573,Rochester,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+574,Rome,listings.csv.gz,Detailed Listings data
+575,Rome,calendar.csv.gz,Detailed Calendar Data
+576,Rome,reviews.csv.gz,Detailed Review Data
+577,Rome,listings.csv,Summary information and metrics for listings in Rome (good for visualisations).
+578,Rome,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+579,Rome,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+580,Rome,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+581,Rotterdam,listings.csv.gz,Detailed Listings data
+582,Rotterdam,calendar.csv.gz,Detailed Calendar Data
+583,Rotterdam,reviews.csv.gz,Detailed Review Data
+584,Rotterdam,listings.csv,Summary information and metrics for listings in Rotterdam (good for visualisations).
+585,Rotterdam,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+586,Rotterdam,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+587,Rotterdam,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+588,"Salem, OR",listings.csv.gz,Detailed Listings data
+589,"Salem, OR",calendar.csv.gz,Detailed Calendar Data
+590,"Salem, OR",reviews.csv.gz,Detailed Review Data
+591,"Salem, OR",listings.csv,"Summary information and metrics for listings in Salem, OR (good for visualisations)."
+592,"Salem, OR",reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+593,"Salem, OR",neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+594,"Salem, OR",neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+595,San Diego,listings.csv.gz,Detailed Listings data
+596,San Diego,calendar.csv.gz,Detailed Calendar Data
+597,San Diego,reviews.csv.gz,Detailed Review Data
+598,San Diego,listings.csv,Summary information and metrics for listings in San Diego (good for visualisations).
+599,San Diego,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+600,San Diego,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+601,San Diego,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+602,San Francisco,listings.csv.gz,Detailed Listings data
+603,San Francisco,calendar.csv.gz,Detailed Calendar Data
+604,San Francisco,reviews.csv.gz,Detailed Review Data
+605,San Francisco,listings.csv,Summary information and metrics for listings in San Francisco (good for visualisations).
+606,San Francisco,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+607,San Francisco,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+608,San Francisco,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+609,San Mateo County,listings.csv.gz,Detailed Listings data
+610,San Mateo County,calendar.csv.gz,Detailed Calendar Data
+611,San Mateo County,reviews.csv.gz,Detailed Review Data
+612,San Mateo County,listings.csv,Summary information and metrics for listings in San Mateo County (good for visualisations).
+613,San Mateo County,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+614,San Mateo County,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+615,San Mateo County,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+616,Santa Clara County,listings.csv.gz,Detailed Listings data
+617,Santa Clara County,calendar.csv.gz,Detailed Calendar Data
+618,Santa Clara County,reviews.csv.gz,Detailed Review Data
+619,Santa Clara County,listings.csv,Summary information and metrics for listings in Santa Clara County (good for visualisations).
+620,Santa Clara County,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+621,Santa Clara County,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+622,Santa Clara County,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+623,Santa Cruz County,listings.csv.gz,Detailed Listings data
+624,Santa Cruz County,calendar.csv.gz,Detailed Calendar Data
+625,Santa Cruz County,reviews.csv.gz,Detailed Review Data
+626,Santa Cruz County,listings.csv,Summary information and metrics for listings in Santa Cruz County (good for visualisations).
+627,Santa Cruz County,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+628,Santa Cruz County,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+629,Santa Cruz County,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+630,Santiago,listings.csv.gz,Detailed Listings data
+631,Santiago,calendar.csv.gz,Detailed Calendar Data
+632,Santiago,reviews.csv.gz,Detailed Review Data
+633,Santiago,listings.csv,Summary information and metrics for listings in Santiago (good for visualisations).
+634,Santiago,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+635,Santiago,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+636,Santiago,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+637,Seattle,listings.csv.gz,Detailed Listings data
+638,Seattle,calendar.csv.gz,Detailed Calendar Data
+639,Seattle,reviews.csv.gz,Detailed Review Data
+640,Seattle,listings.csv,Summary information and metrics for listings in Seattle (good for visualisations).
+641,Seattle,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+642,Seattle,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+643,Seattle,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+644,Sevilla,listings.csv.gz,Detailed Listings data
+645,Sevilla,calendar.csv.gz,Detailed Calendar Data
+646,Sevilla,reviews.csv.gz,Detailed Review Data
+647,Sevilla,listings.csv,Summary information and metrics for listings in Sevilla (good for visualisations).
+648,Sevilla,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+649,Sevilla,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+650,Sevilla,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+651,Sicily,listings.csv.gz,Detailed Listings data
+652,Sicily,calendar.csv.gz,Detailed Calendar Data
+653,Sicily,reviews.csv.gz,Detailed Review Data
+654,Sicily,listings.csv,Summary information and metrics for listings in Sicily (good for visualisations).
+655,Sicily,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+656,Sicily,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+657,Sicily,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+658,Singapore,listings.csv.gz,Detailed Listings data
+659,Singapore,calendar.csv.gz,Detailed Calendar Data
+660,Singapore,reviews.csv.gz,Detailed Review Data
+661,Singapore,listings.csv,Summary information and metrics for listings in Singapore (good for visualisations).
+662,Singapore,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+663,Singapore,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+664,Singapore,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+665,South Aegean,listings.csv.gz,Detailed Listings data
+666,South Aegean,calendar.csv.gz,Detailed Calendar Data
+667,South Aegean,reviews.csv.gz,Detailed Review Data
+668,South Aegean,listings.csv,Summary information and metrics for listings in South Aegean (good for visualisations).
+669,South Aegean,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+670,South Aegean,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+671,South Aegean,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+672,Stockholm,listings.csv.gz,Detailed Listings data
+673,Stockholm,calendar.csv.gz,Detailed Calendar Data
+674,Stockholm,reviews.csv.gz,Detailed Review Data
+675,Stockholm,listings.csv,Summary information and metrics for listings in Stockholm (good for visualisations).
+676,Stockholm,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+677,Stockholm,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+678,Stockholm,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+679,Sunshine Coast,listings.csv.gz,Detailed Listings data
+680,Sunshine Coast,calendar.csv.gz,Detailed Calendar Data
+681,Sunshine Coast,reviews.csv.gz,Detailed Review Data
+682,Sunshine Coast,listings.csv,Summary information and metrics for listings in Sunshine Coast (good for visualisations).
+683,Sunshine Coast,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+684,Sunshine Coast,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+685,Sunshine Coast,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+686,Sydney,listings.csv.gz,Detailed Listings data
+687,Sydney,calendar.csv.gz,Detailed Calendar Data
+688,Sydney,reviews.csv.gz,Detailed Review Data
+689,Sydney,listings.csv,Summary information and metrics for listings in Sydney (good for visualisations).
+690,Sydney,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+691,Sydney,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+692,Sydney,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+693,Taipei,listings.csv.gz,Detailed Listings data
+694,Taipei,calendar.csv.gz,Detailed Calendar Data
+695,Taipei,reviews.csv.gz,Detailed Review Data
+696,Taipei,listings.csv,Summary information and metrics for listings in Taipei (good for visualisations).
+697,Taipei,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+698,Taipei,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+699,Taipei,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+700,Tasmania,listings.csv.gz,Detailed Listings data
+701,Tasmania,calendar.csv.gz,Detailed Calendar Data
+702,Tasmania,reviews.csv.gz,Detailed Review Data
+703,Tasmania,listings.csv,Summary information and metrics for listings in Tasmania (good for visualisations).
+704,Tasmania,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+705,Tasmania,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+706,Tasmania,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+707,The Hague,listings.csv.gz,Detailed Listings data
+708,The Hague,calendar.csv.gz,Detailed Calendar Data
+709,The Hague,reviews.csv.gz,Detailed Review Data
+710,The Hague,listings.csv,Summary information and metrics for listings in The Hague (good for visualisations).
+711,The Hague,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+712,The Hague,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+713,The Hague,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+714,Thessaloniki,listings.csv.gz,Detailed Listings data
+715,Thessaloniki,calendar.csv.gz,Detailed Calendar Data
+716,Thessaloniki,reviews.csv.gz,Detailed Review Data
+717,Thessaloniki,listings.csv,Summary information and metrics for listings in Thessaloniki (good for visualisations).
+718,Thessaloniki,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+719,Thessaloniki,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+720,Thessaloniki,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+721,Tokyo,listings.csv.gz,Detailed Listings data
+722,Tokyo,calendar.csv.gz,Detailed Calendar Data
+723,Tokyo,reviews.csv.gz,Detailed Review Data
+724,Tokyo,listings.csv,Summary information and metrics for listings in Tokyo (good for visualisations).
+725,Tokyo,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+726,Tokyo,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+727,Tokyo,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+728,Toronto,listings.csv.gz,Detailed Listings data
+729,Toronto,calendar.csv.gz,Detailed Calendar Data
+730,Toronto,reviews.csv.gz,Detailed Review Data
+731,Toronto,listings.csv,Summary information and metrics for listings in Toronto (good for visualisations).
+732,Toronto,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+733,Toronto,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+734,Toronto,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+735,Trentino,listings.csv.gz,Detailed Listings data
+736,Trentino,calendar.csv.gz,Detailed Calendar Data
+737,Trentino,reviews.csv.gz,Detailed Review Data
+738,Trentino,listings.csv,Summary information and metrics for listings in Trentino (good for visualisations).
+739,Trentino,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+740,Trentino,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+741,Trentino,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+742,Twin Cities MSA,listings.csv.gz,Detailed Listings data
+743,Twin Cities MSA,calendar.csv.gz,Detailed Calendar Data
+744,Twin Cities MSA,reviews.csv.gz,Detailed Review Data
+745,Twin Cities MSA,listings.csv,Summary information and metrics for listings in Twin Cities MSA (good for visualisations).
+746,Twin Cities MSA,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+747,Twin Cities MSA,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+748,Twin Cities MSA,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+749,Valencia,listings.csv.gz,Detailed Listings data
+750,Valencia,calendar.csv.gz,Detailed Calendar Data
+751,Valencia,reviews.csv.gz,Detailed Review Data
+752,Valencia,listings.csv,Summary information and metrics for listings in Valencia (good for visualisations).
+753,Valencia,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+754,Valencia,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+755,Valencia,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+756,Vancouver,listings.csv.gz,Detailed Listings data
+757,Vancouver,calendar.csv.gz,Detailed Calendar Data
+758,Vancouver,reviews.csv.gz,Detailed Review Data
+759,Vancouver,listings.csv,Summary information and metrics for listings in Vancouver (good for visualisations).
+760,Vancouver,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+761,Vancouver,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+762,Vancouver,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+763,Vaud,listings.csv.gz,Detailed Listings data
+764,Vaud,calendar.csv.gz,Detailed Calendar Data
+765,Vaud,reviews.csv.gz,Detailed Review Data
+766,Vaud,listings.csv,Summary information and metrics for listings in Vaud (good for visualisations).
+767,Vaud,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+768,Vaud,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+769,Vaud,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+770,Venice,listings.csv.gz,Detailed Listings data
+771,Venice,calendar.csv.gz,Detailed Calendar Data
+772,Venice,reviews.csv.gz,Detailed Review Data
+773,Venice,listings.csv,Summary information and metrics for listings in Venice (good for visualisations).
+774,Venice,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+775,Venice,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+776,Venice,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+777,Victoria,listings.csv.gz,Detailed Listings data
+778,Victoria,calendar.csv.gz,Detailed Calendar Data
+779,Victoria,reviews.csv.gz,Detailed Review Data
+780,Victoria,listings.csv,Summary information and metrics for listings in Victoria (good for visualisations).
+781,Victoria,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+782,Victoria,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+783,Victoria,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+784,Vienna,listings.csv.gz,Detailed Listings data
+785,Vienna,calendar.csv.gz,Detailed Calendar Data
+786,Vienna,reviews.csv.gz,Detailed Review Data
+787,Vienna,listings.csv,Summary information and metrics for listings in Vienna (good for visualisations).
+788,Vienna,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+789,Vienna,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+790,Vienna,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+791,"Washington, D.C.",listings.csv.gz,Detailed Listings data
+792,"Washington, D.C.",calendar.csv.gz,Detailed Calendar Data
+793,"Washington, D.C.",reviews.csv.gz,Detailed Review Data
+794,"Washington, D.C.",listings.csv,"Summary information and metrics for listings in Washington, D.C. (good for visualisations)."
+795,"Washington, D.C.",reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+796,"Washington, D.C.",neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+797,"Washington, D.C.",neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+798,Western Australia,listings.csv.gz,Detailed Listings data
+799,Western Australia,calendar.csv.gz,Detailed Calendar Data
+800,Western Australia,reviews.csv.gz,Detailed Review Data
+801,Western Australia,listings.csv,Summary information and metrics for listings in Western Australia (good for visualisations).
+802,Western Australia,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+803,Western Australia,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+804,Western Australia,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+805,Winnipeg,listings.csv.gz,Detailed Listings data
+806,Winnipeg,calendar.csv.gz,Detailed Calendar Data
+807,Winnipeg,reviews.csv.gz,Detailed Review Data
+808,Winnipeg,listings.csv,Summary information and metrics for listings in Winnipeg (good for visualisations).
+809,Winnipeg,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+810,Winnipeg,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+811,Winnipeg,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+812,Zurich,listings.csv.gz,Detailed Listings data
+813,Zurich,calendar.csv.gz,Detailed Calendar Data
+814,Zurich,reviews.csv.gz,Detailed Review Data
+815,Zurich,listings.csv,Summary information and metrics for listings in Zurich (good for visualisations).
+816,Zurich,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+817,Zurich,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+818,Zurich,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+819,Ireland,listings.csv.gz,Detailed Listings data
+820,Ireland,calendar.csv.gz,Detailed Calendar Data
+821,Ireland,reviews.csv.gz,Detailed Review Data
+822,Ireland,listings.csv,Summary information and metrics for listings in Ireland (good for visualisations).
+823,Ireland,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+824,Ireland,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+825,Ireland,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+826,Malta,listings.csv.gz,Detailed Listings data
+827,Malta,calendar.csv.gz,Detailed Calendar Data
+828,Malta,reviews.csv.gz,Detailed Review Data
+829,Malta,listings.csv,Summary information and metrics for listings in Malta (good for visualisations).
+830,Malta,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+831,Malta,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+832,Malta,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
+833,New Zealand,listings.csv.gz,Detailed Listings data
+834,New Zealand,calendar.csv.gz,Detailed Calendar Data
+835,New Zealand,reviews.csv.gz,Detailed Review Data
+836,New Zealand,listings.csv,Summary information and metrics for listings in New Zealand (good for visualisations).
+837,New Zealand,reviews.csv,Summary Review data and Listing ID (to facilitate time based analytics and visualisations linked to a listing).
+838,New Zealand,neighbourhoods.csv,Neighbourhood list for geo filter. Sourced from city or open source GIS files.
+839,New Zealand,neighbourhoods.geojson,GeoJSON file of neighbourhoods of the city.
